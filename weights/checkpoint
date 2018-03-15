@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/firefreezing/DataScience/DeepLearning/DL_test/weights/my_slr_final.ckpt"
+all_model_checkpoint_paths: "/Users/firefreezing/DataScience/DeepLearning/DL_test/weights/my_slr.ckpt"
+all_model_checkpoint_paths: "/Users/firefreezing/DataScience/DeepLearning/DL_test/weights/my_slr_final.ckpt"
