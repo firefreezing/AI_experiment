@@ -1,5 +1,5 @@
 # AI Experiment
-by firefreezing on Mar 15, 2018
+by firefreezing on Mar 27, 2018
 
 This repo includes some programming code examples & notes during my AI learning. 
 
